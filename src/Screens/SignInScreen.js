@@ -1,5 +1,6 @@
 import { View, Text, Image, StyleSheet, useWindowDimensions } from 'react-native'
 import React from 'react'
+import Logo from '../../../assets/images/OHAN logo.jpeg'; 
 
 
 const SignInScreen = () => {
